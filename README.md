@@ -24,4 +24,5 @@ amazon-landing-page/
 **Open index.html in any web browser.
 **Enjoy the Amazon-like experience!
 ![Image](https://github.com/user-attachments/assets/817eddc9-4427-4b03-a3a9-78630d79c0f3)
+![Image](https://github.com/user-attachments/assets/a59c8ecd-8a1b-4ac7-be96-2fa534c6883c)
 
