@@ -1,3 +1,4 @@
+
 🛒 Amazon Landing Page Clone
 This project is a responsive clone of the Amazon Landing Page, built using HTML and CSS. It mimics the look and feel of the official Amazon homepage,
 including sections like the header, search bar, product categories, and deals display.
