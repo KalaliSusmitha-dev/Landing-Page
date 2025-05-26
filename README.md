@@ -5,12 +5,12 @@ including sections like the header, search bar, product categories, and deals di
 HTML
 CSS
 ✨ Features
-Fully responsive layout for desktop and mobile devices
-Header with Amazon logo, search bar, and cart icon
-Navigation bar with product categories
-Hero section with promotional banners
-Grid layout of product cards
-Footer with useful links
+1.Fully responsive layout for desktop and mobile devices
+2.Header with Amazon logo, search bar, and cart icon
+3.Navigation bar with product categories
+4.Hero section with promotional banners
+5.Grid layout of product cards
+6.Footer with useful links
 📂 Folder Structure
 amazon-landing-page/
 │
@@ -19,6 +19,6 @@ amazon-landing-page/
 └── images/
     └── (Downloaded from google)
 🚀 How to Run the Project
-Download or clone this repository.
-Open index.html in any web browser.
-Enjoy the Amazon-like experience!
+**Download or clone this repository.
+**Open index.html in any web browser.
+**Enjoy the Amazon-like experience!
