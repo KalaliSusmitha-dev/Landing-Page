@@ -23,3 +23,5 @@ amazon-landing-page/
 **Download or clone this repository.
 **Open index.html in any web browser.
 **Enjoy the Amazon-like experience!
+![Image](https://github.com/user-attachments/assets/817eddc9-4427-4b03-a3a9-78630d79c0f3)
+
