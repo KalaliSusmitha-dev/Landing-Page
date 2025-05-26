@@ -15,8 +15,8 @@ CSS
 📂 Folder Structure
 amazon-landing-page/
 │
-├── index.html
-├── style.css
+├── mainpage.html
+├── project.css
 └── images/
     └── (Downloaded from google)
 🚀 How to Run the Project
